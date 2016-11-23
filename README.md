@@ -1,4 +1,4 @@
-# ch.bedag.vrk.rmi
+# ch.aos.demo.filewatcher
 
 What does this Java Application do?
 -----------------------------------
