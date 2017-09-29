@@ -1,4 +1,4 @@
-package ch.bedag.vrk.rmi.xmlgen;
+package ch.aos.demo.test;
 
 import java.io.File;
 import java.io.IOException;
